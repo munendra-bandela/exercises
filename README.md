@@ -1,3 +1,1 @@
-# exercises
-practise
 "exercises practice" 
